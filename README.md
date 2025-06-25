@@ -18,7 +18,7 @@
   Software Developer Intern at Bluestock Fintech
 
 - 📫 How to reach me:  
-  📧 **unnayansingh2004@gmail.com**  
+  📧 **unnayansingh2005@gmail.com**  
   💼 [LinkedIn](https://www.linkedin.com/in/unnayan-singh-2b9062289)
 
 ---
