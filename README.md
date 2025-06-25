@@ -15,13 +15,11 @@
 
 - 💼 Currently:  
   Final year B.Tech student  
-  Working manager at Swiggy  
-  Full Stack Intern at Cognifyz Technologies
+  Software Developer Intern at Bluestock Fintech
 
 - 📫 How to reach me:  
   📧 **unnayansingh2004@gmail.com**  
-  💼 [LinkedIn](https://www.linkedin.com/in/unnayan-singh/)  
-  🧑‍💻 [Portfolio Website](https://your-portfolio-link.netlify.app/) *(optional if you host one)*
+  💼 [LinkedIn](https://www.linkedin.com/in/unnayan-singh-2b9062289)
 
 ---
 
@@ -57,9 +55,6 @@
 - 💡 **Mental Health Companion**  
   `React • Node.js • Gemini AI • MongoDB`  
   Tracks mood, AI-generated journal prompts, and visualizations to support mental wellness.
-
-- 🐍 **Snake Game**, 🧮 **Age Calculator**, 💳 **ATM Simulation System**  
-  Beginner-friendly web and Python projects that show frontend & backend logic.
 
 ---
 
