@@ -56,9 +56,10 @@
   `React • Node.js • Gemini AI • MongoDB`  
   Tracks mood, AI-generated journal prompts, and visualizations to support mental wellness.
 
-- 📷 Image Steganography Web App
-  `Flask • Python • MySQL • Bootstrap`
-  Secure web app to hide and reveal encrypted messages inside images, with login, export, and      dark mode features.
+- 📷 Image Steganography Web App  
+  `Flask • Python • MySQL • Bootstrap`  
+  Secure web app to hide and reveal encrypted messages inside images, with login, history export   (CSV/PDF), and dark mode support.
+
   
 ---
 
