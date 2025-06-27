@@ -11,7 +11,7 @@
   `Machine Learning`, `Data Visualization`, and `Backend APIs`
 
 - 👯 I’m open to collaborate on:  
-  `Data Analysis`, `Full Stack Projects`, and `ML apps`
+  `Data Analysis`, `Full Stack Projects`, and `Machine Learning Applications`
 
 - 💼 Currently:  
   Final year B.Tech student  
@@ -56,6 +56,10 @@
   `React • Node.js • Gemini AI • MongoDB`  
   Tracks mood, AI-generated journal prompts, and visualizations to support mental wellness.
 
+- 📷 Image Steganography Web App
+  `Flask • Python • MySQL • Bootstrap`
+  Secure web app to hide and reveal encrypted messages inside images, with login, export, and      dark mode features.
+  
 ---
 
 > ⭐ *“Keep learning, keep building.”*  
